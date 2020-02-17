@@ -1,4 +1,3 @@
-# WhiteGame
 {
 	"o": 1,
 	"openAd": 1,
